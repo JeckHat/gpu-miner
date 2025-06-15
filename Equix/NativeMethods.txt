@@ -1,0 +1,8 @@
+﻿VirtualProtectEx
+VirtualProtect
+VirtualFree
+VirtualAlloc
+GetLastError
+GetLogicalProcessorInformation
+SetThreadExecutionState
+GetThreadExecutionState
